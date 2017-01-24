@@ -1,0 +1,10 @@
+Total number of user collected 10
+Total Number of messages collected: 605
+Number of communities discovered: 3
+print('Cluster 1 : 8 nodes 
+Cluster 2 : 1 nodes 
+Cluster 3 : 1 nodes
+Average number of users per community: 3
+Number of instance found from Positive Class : 245
+Number of instance found from Positive Class : 290
+------------Positive Tweet------------LeBron James to fulfill Dwyane Wade's Cubs bet on Friday: 'I will be in uniform' https://t.co/JLjRDusdMd https://t.co/buT3moZKTg------------Negative Tweet------------ISU lost at home..at least the @Cubs are World Series champs

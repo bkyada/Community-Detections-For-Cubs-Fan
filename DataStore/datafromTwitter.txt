@@ -1,0 +1,527 @@
+[
+    {
+        "created_at": "Thu Dec 01 14:00:03 +0000 2016",
+        "text": "Join us in wishing a happy 24th birthday to @javy23baez! https://t.co/fTUYuU61iK",
+        "user_mentioned": [
+            {
+                "indices": [
+                    44,
+                    55
+                ],
+                "id": 553317651,
+                "name": "Javier B\u00e1ez",
+                "id_str": "553317651",
+                "screen_name": "javy23baez"
+            }
+        ],
+        "screen_name": "Cubs"
+    },
+    {
+        "created_at": "Wed Nov 30 19:30:04 +0000 2016",
+        "text": "Complete your tailgate: 12 followers who RT will win this @logobrandsinc @Cubs caddy. https://t.co/dmFqxPXhfV https://t.co/pg7CA8gWL5",
+        "user_mentioned": [
+            {
+                "indices": [
+                    58,
+                    72
+                ],
+                "id": 3323305517,
+                "name": "Logo Brands",
+                "id_str": "3323305517",
+                "screen_name": "logobrandsinc"
+            },
+            {
+                "indices": [
+                    73,
+                    78
+                ],
+                "id": 41144996,
+                "name": "Chicago Cubs",
+                "id_str": "41144996",
+                "screen_name": "Cubs"
+            }
+        ],
+        "screen_name": "MLB"
+    },
+    {
+        "created_at": "Wed Nov 30 20:35:26 +0000 2016",
+        "text": "A November to remember. https://t.co/Fawqveo2Mo",
+        "user_mentioned": [],
+        "screen_name": "Cubs"
+    },
+    {
+        "created_at": "Fri Dec 02 05:21:46 +0000 2016",
+        "text": "@AL_CIEN_RUIZ100 you know anything about the Cubs and them winning the World Series?",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    16
+                ],
+                "id": 2721325197,
+                "name": "JUST WIN BABY 9-2",
+                "id_str": "2721325197",
+                "screen_name": "AL_CIEN_RUIZ100"
+            }
+        ],
+        "screen_name": "Lakerssjessy"
+    },
+    {
+        "created_at": "Fri Dec 02 05:21:33 +0000 2016",
+        "text": "The MN #Vikings are the new Cubs and always have been. \n\nThey are who we thought they were.",
+        "user_mentioned": [],
+        "screen_name": "ryanmkiser"
+    },
+    {
+        "created_at": "Fri Dec 02 05:21:23 +0000 2016",
+        "text": "I hope the cubs beat the indians in the world series",
+        "user_mentioned": [],
+        "screen_name": "JackNotBrown"
+    },
+    {
+        "created_at": "Fri Dec 02 05:21:22 +0000 2016",
+        "text": "2016 has been insane, Harambe is dead, Cubs are World Series champions, Donald Trump is president and we still have a month left...",
+        "user_mentioned": [],
+        "screen_name": "adowney15"
+    },
+    {
+        "created_at": "Fri Dec 02 05:20:38 +0000 2016",
+        "text": "REMINDER: LeBron will be wearing a full Chicago Cubs uniform to the Cavs game against the \u2026 https://t.co/nzNq6NsHZk https://t.co/G4JvsfE09O",
+        "user_mentioned": [],
+        "screen_name": "recentnbatalks"
+    },
+    {
+        "created_at": "Fri Dec 02 05:20:15 +0000 2016",
+        "text": "Good things that happened to me tonight: I got my money from my bet on the Cubs winning the World Series https://t.co/5LZWGxN5Yq",
+        "user_mentioned": [],
+        "screen_name": "brileeper23"
+    },
+    {
+        "created_at": "Fri Dec 02 05:20:07 +0000 2016",
+        "text": "Earlier: All-Star Game Will No Longer Determine Home Field Advantage in The World Series https://t.co/YZuawOnvzT  #MLB #Cubs",
+        "user_mentioned": [],
+        "screen_name": "TheCCO"
+    },
+    {
+        "created_at": "Fri Dec 02 05:20:00 +0000 2016",
+        "text": "Three snow leopards cubs #CulturesWays\nhttps://t.co/SEQfpENaBN",
+        "user_mentioned": [],
+        "screen_name": "CultureOnEarth"
+    },
+    {
+        "created_at": "Fri Dec 02 05:19:10 +0000 2016",
+        "text": "Confession:\n\nWe wish this jacket (which drops Friday) came in adult bear sizes and not just cubs! Available at the\u2026 https://t.co/jKstDMcUgG",
+        "user_mentioned": [],
+        "screen_name": "SacRepublicFC"
+    },
+    {
+        "created_at": "Fri Dec 02 05:19:03 +0000 2016",
+        "text": "$IM $EROS\n$IM $FOR $A $LOCK\n$DANG! $DATA $ARE $FOR $CUBS",
+        "user_mentioned": [],
+        "screen_name": "stockbard"
+    },
+    {
+        "created_at": "Fri Dec 02 05:18:21 +0000 2016",
+        "text": "I just ordered all my Cubs gear today around 2. Y'all think it'll be here by tomorrow?",
+        "user_mentioned": [],
+        "screen_name": "jackygarcia12"
+    },
+    {
+        "created_at": "Fri Dec 02 05:16:36 +0000 2016",
+        "text": "R the cowboys really 11-1? Did the cubs really win the World Series? Is Donald trump really our next pres? Did Peyton manning really retire?",
+        "user_mentioned": [],
+        "screen_name": "shaesharpe"
+    },
+    {
+        "created_at": "Fri Dec 02 05:16:05 +0000 2016",
+        "text": "@Bullet4myfriend @L_Scott10 typical Cubs fan lol. Must be 12 going on 13",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    16
+                ],
+                "id": 75808777,
+                "name": "Jake Smith",
+                "id_str": "75808777",
+                "screen_name": "Bullet4myfriend"
+            },
+            {
+                "indices": [
+                    17,
+                    27
+                ],
+                "id": 330486615,
+                "name": "Logan Scott",
+                "id_str": "330486615",
+                "screen_name": "L_Scott10"
+            }
+        ],
+        "screen_name": "HoldenCantor"
+    },
+    {
+        "created_at": "Fri Dec 02 05:15:50 +0000 2016",
+        "text": "@JPuga1966 @JorgeSalgado__ Awe, ND was TERRIBLE this year. It's all good. The Cubs have more than made up for it and the Cowboys are bonus.",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    10
+                ],
+                "id": 71673137,
+                "name": "Josh Puga",
+                "id_str": "71673137",
+                "screen_name": "JPuga1966"
+            },
+            {
+                "indices": [
+                    11,
+                    26
+                ],
+                "id": 1236593863,
+                "name": "Jorge Salgado",
+                "id_str": "1236593863",
+                "screen_name": "JorgeSalgado__"
+            }
+        ],
+        "screen_name": "chrisavila_01"
+    },
+    {
+        "created_at": "Fri Dec 02 05:15:47 +0000 2016",
+        "text": "@LouTEPminer @PaulCCasares there's a movie about the Cubs? Can you send a link?",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    12
+                ],
+                "id": 106913393,
+                "name": "LouTEP Miner",
+                "id_str": "106913393",
+                "screen_name": "LouTEPminer"
+            },
+            {
+                "indices": [
+                    13,
+                    26
+                ],
+                "id": 278877240,
+                "name": "GrandPaul",
+                "id_str": "278877240",
+                "screen_name": "PaulCCasares"
+            }
+        ],
+        "screen_name": "JorgeSalgado__"
+    },
+    {
+        "created_at": "Fri Dec 02 05:15:43 +0000 2016",
+        "text": "Could it be?  Can the Cubs and the Cowboys both go all the way?",
+        "user_mentioned": [],
+        "screen_name": "drewmawson"
+    },
+    {
+        "created_at": "Fri Dec 02 05:15:39 +0000 2016",
+        "text": "@Chicagos_Cubs two people disagreeing on a subject. Yes. It's arguing.",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    14
+                ],
+                "id": 428007271,
+                "name": "Chicagos Cubs",
+                "id_str": "428007271",
+                "screen_name": "Chicagos_Cubs"
+            }
+        ],
+        "screen_name": "cubsfaninstl16"
+    },
+    {
+        "created_at": "Fri Dec 02 05:15:19 +0000 2016",
+        "text": "@nikel18 How much do players feel \"atmosphere.\" Cubs not winnin since 1908, Lions 1 PO win since 1957... Players feel that burden you think?",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    8
+                ],
+                "id": 34173722,
+                "name": "Nik Lewis",
+                "id_str": "34173722",
+                "screen_name": "nikel18"
+            }
+        ],
+        "screen_name": "pjcalverley"
+    },
+    {
+        "created_at": "Fri Dec 02 05:14:53 +0000 2016",
+        "text": "@JordanRommes pretty nice being a Cubs fan though huh? \ud83d\ude02",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    13
+                ],
+                "id": 782672162,
+                "name": "Jordan Rommes",
+                "id_str": "782672162",
+                "screen_name": "JordanRommes"
+            }
+        ],
+        "screen_name": "QB15Braun"
+    },
+    {
+        "created_at": "Fri Dec 02 05:14:34 +0000 2016",
+        "text": "This Friday our girls varsity basketball team hosts the Newport Cubs at Pirate Palace on Friday at 6:00pm.",
+        "user_mentioned": [],
+        "screen_name": "pirateathletics"
+    },
+    {
+        "created_at": "Fri Dec 02 05:14:26 +0000 2016",
+        "text": "I liked a @YouTube video https://t.co/dfRKtnDHly PS4: MLB The Show 16 - Chicago Cubs vs. San Francisco Giants [1080p 60 FPS]",
+        "user_mentioned": [
+            {
+                "indices": [
+                    10,
+                    18
+                ],
+                "id": 10228272,
+                "name": "YouTube",
+                "id_str": "10228272",
+                "screen_name": "YouTube"
+            }
+        ],
+        "screen_name": "gibb_aaron"
+    },
+    {
+        "created_at": "Fri Dec 02 05:14:25 +0000 2016",
+        "text": "#TeamCubs #Cubs #Cubbies #FlyTheW\u200c South Korean police question Pirates' Kang over DUI crash (The Associated P.. https://t.co/XRuHWJUSyD #\u2026",
+        "user_mentioned": [],
+        "screen_name": "Play4Tokens"
+    },
+    {
+        "created_at": "Fri Dec 02 05:14:10 +0000 2016",
+        "text": "Lion Cubs Meet Dad for the First Time: https://t.co/dvS2cnOh0y",
+        "user_mentioned": [],
+        "screen_name": "AasiyaQ"
+    },
+    {
+        "created_at": "Fri Dec 02 05:14:09 +0000 2016",
+        "text": "@danpfeiffer big baby",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    12
+                ],
+                "id": 2922928743,
+                "name": "Dan Pfeiffer",
+                "id_str": "2922928743",
+                "screen_name": "danpfeiffer"
+            }
+        ],
+        "screen_name": "cubs_ricky"
+    },
+    {
+        "created_at": "Fri Dec 02 05:13:55 +0000 2016",
+        "text": "Hector Rondon, Willson Contreras listed here. So is Avi Garcia. #Cubs #WhiteSox https://t.co/dwGZxIrbuL",
+        "user_mentioned": [],
+        "screen_name": "lcm1986"
+    },
+    {
+        "created_at": "Fri Dec 02 05:13:55 +0000 2016",
+        "text": "@chrisavila_01 @JPuga1966 I can't believe I'm just remembering. I was talking to Togo Railey (66' Miners) about the Cubs. He congratulated.",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    14
+                ],
+                "id": 144741381,
+                "name": "Chris Avila",
+                "id_str": "144741381",
+                "screen_name": "chrisavila_01"
+            },
+            {
+                "indices": [
+                    15,
+                    25
+                ],
+                "id": 71673137,
+                "name": "Josh Puga",
+                "id_str": "71673137",
+                "screen_name": "JPuga1966"
+            }
+        ],
+        "screen_name": "JorgeSalgado__"
+    },
+    {
+        "created_at": "Fri Dec 02 05:13:22 +0000 2016",
+        "text": "@Lambleghini it sure helped the cubs this year tho",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    12
+                ],
+                "id": 419302967,
+                "name": "Taylor Lamble\u26be\ufe0f",
+                "id_str": "419302967",
+                "screen_name": "Lambleghini"
+            }
+        ],
+        "screen_name": "Lambanator12"
+    },
+    {
+        "created_at": "Fri Dec 02 05:13:03 +0000 2016",
+        "text": "#TeamCubs #Cubs #Cubbies #FlyTheW\u200c South Korean police question Pirates' Kang over DUI crash (The Associated P.. https://t.co/TTI6Tqei4z",
+        "user_mentioned": [],
+        "screen_name": "CubsViews"
+    },
+    {
+        "created_at": "Fri Dec 02 05:13:02 +0000 2016",
+        "text": "@Trashrxt maybe with your skills...\ud83d\ude27. But hey the cubs won the world series anythings possible",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    9
+                ],
+                "id": 3428694136,
+                "name": "Possum Mom",
+                "id_str": "3428694136",
+                "screen_name": "Trashrxt"
+            }
+        ],
+        "screen_name": "that_kid_wayne"
+    },
+    {
+        "created_at": "Fri Dec 02 05:12:41 +0000 2016",
+        "text": "LeBron to wear Cubs uniform after losing Series bet to Wade - SFGate.. Related Articles: https://t.co/qHd2s5JExi",
+        "user_mentioned": [],
+        "screen_name": "la_news_update"
+    },
+    {
+        "created_at": "Fri Dec 02 05:12:31 +0000 2016",
+        "text": "@GDubCub\nRaised to recognize Cubs as arch enemy.\nHowever, @jonjayU is an awesome guy. Cubs improve with his mere presence on roster.\n@dgoold",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    8
+                ],
+                "id": 545471016,
+                "name": "Gordon Wittenmyer",
+                "id_str": "545471016",
+                "screen_name": "GDubCub"
+            },
+            {
+                "indices": [
+                    58,
+                    66
+                ],
+                "id": 251489444,
+                "name": "Jon Jay 2Js",
+                "id_str": "251489444",
+                "screen_name": "jonjayU"
+            },
+            {
+                "indices": [
+                    133,
+                    140
+                ],
+                "id": 16533116,
+                "name": "Derrick Goold",
+                "id_str": "16533116",
+                "screen_name": "dgoold"
+            }
+        ],
+        "screen_name": "_shivas_irons"
+    },
+    {
+        "created_at": "Fri Dec 02 05:12:27 +0000 2016",
+        "text": "Ortiz has more World Series rings since 2004 than the Cubs had in 108 years.",
+        "user_mentioned": [],
+        "screen_name": "agross36"
+    },
+    {
+        "created_at": "Fri Dec 02 05:11:58 +0000 2016",
+        "text": "*Cubs are World Series champs. Cubs are World Series champs* Repeat with wine as needed. https://t.co/G2ncg5SwdI",
+        "user_mentioned": [],
+        "screen_name": "bkwhoppa142334"
+    },
+    {
+        "created_at": "Wed Nov 30 02:35:20 +0000 2016",
+        "text": "The Ryne and Bobby show! https://t.co/HZmcpqjrjZ",
+        "user_mentioned": [],
+        "screen_name": "HeyMoe018"
+    },
+    {
+        "created_at": "Wed Nov 30 00:05:59 +0000 2016",
+        "text": "Damn it. I will miss you!  Best wishes for health and happiness. https://t.co/JZAqEIvHQP",
+        "user_mentioned": [],
+        "screen_name": "HeyMoe018"
+    },
+    {
+        "created_at": "Sun Nov 27 18:03:19 +0000 2016",
+        "text": "Don't forget volleyball https://t.co/ieH2nk7tVP",
+        "user_mentioned": [],
+        "screen_name": "HeyMoe018"
+    },
+    {
+        "created_at": "Sat Nov 26 23:24:06 +0000 2016",
+        "text": "What exactly is a \"jank ass\"? https://t.co/O1DrUcbfWf",
+        "user_mentioned": [],
+        "screen_name": "HeyMoe018"
+    },
+    {
+        "created_at": "Sat Nov 26 01:36:36 +0000 2016",
+        "text": "@HeyMoe018 @MoesTavern2 AHHHHHH yes!",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    10
+                ],
+                "id": 277733319,
+                "name": "Kim Rose",
+                "id_str": "277733319",
+                "screen_name": "HeyMoe018"
+            },
+            {
+                "indices": [
+                    11,
+                    23
+                ],
+                "id": 296371802,
+                "name": "Mike Moe",
+                "id_str": "296371802",
+                "screen_name": "MoesTavern2"
+            }
+        ],
+        "screen_name": "JennahRoy"
+    },
+    {
+        "created_at": "Sat Nov 26 00:59:22 +0000 2016",
+        "text": "@Racinescanner awful accident. My heart goes out to the family and first responders",
+        "user_mentioned": [
+            {
+                "indices": [
+                    0,
+                    14
+                ],
+                "id": 419024529,
+                "name": "Racine Scanner",
+                "id_str": "419024529",
+                "screen_name": "Racinescanner"
+            }
+        ],
+        "screen_name": "HeyMoe018"
+    },
+    {
+        "created_at": "Wed Nov 23 20:40:14 +0000 2016",
+        "text": "Pies all done, really pissed #tmc didn't have a marathon Gone With The Wind today like they've always done. \ud83d\ude21",
+        "user_mentioned": [],
+        "screen_name": "HeyMoe018"
+    }
+]
